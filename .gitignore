@@ -1,0 +1,10 @@
+target/
+*.class
+*.jar
+!*-jar-with-dependencies.jar
+.idea/
+*.iml
+.DS_Store
+.env
+*.log
+~/.home-manager/
