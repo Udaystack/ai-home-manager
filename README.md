@@ -1,6 +1,6 @@
 # 🏠 AI Home Manager
 
-A powerful Java CLI application that helps you manage your home — tracking maintenance tasks, bills, and appliances — with **Claude AI** providing smart diagnostics, seasonal checklists, spending analysis, and personalized home care advice.
+A powerful Java CLI application that helps you manage your home — tracking maintenance tasks, bills, and appliances — with **Claude AI** providing smart diagnostics, seasonal checklists, spending analysis, and personalized home care advice
 
 ---
 
